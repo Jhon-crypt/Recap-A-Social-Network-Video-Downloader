@@ -16,7 +16,7 @@ app.directive("download", function(){
 
                         <p class="mb-4">Your url is {{ url }}</p>
 
-                        <p><small>The video will load soon once the link is pasted...</small>
+                        <p><small>The video will load soon once the link is pasted...</small></p>
 
                         <object id="widgetv2Api" data="https://convert2mp3s.com/api/widgetv2?url={{ url }}" 
                         width="300" height="500" type="text/html"></object>
