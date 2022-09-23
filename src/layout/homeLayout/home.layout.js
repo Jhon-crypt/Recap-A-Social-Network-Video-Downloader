@@ -37,7 +37,7 @@ app.directive("home", function(){
         <div align="center">
 
             <small>
-                <a href="">Oladele John</a> <i class="fa fa-copyright"></i> 2022
+                <a href="https://twitter.com/cyber_geek__">Oladele John</a> <i class="fa fa-copyright"></i> 2022
             </small>
 
         </div>
