@@ -33,6 +33,14 @@ app.directive("home", function(){
             </div>
 
         </div>
+
+        <div align="center">
+
+            <small>
+                <a href="">Oladele John</a> <i class="fa fa-copyright"></i> 2022
+            </small>
+
+        </div>
         
         `
 
