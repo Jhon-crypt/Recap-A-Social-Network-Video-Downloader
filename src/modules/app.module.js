@@ -1,0 +1,1 @@
+var app = angular.module("recap", ["ngRoute","angular-loading-bar"]);
